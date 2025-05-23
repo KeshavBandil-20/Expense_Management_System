@@ -6,10 +6,10 @@ A full-stack application to track, update, and analyze your daily expenses with 
 
 ## 🚀 Features
 
-- ✅ Add or update daily expenses with category, amount, and notes
-- 📊 View analytics and breakdown of expenses over a date range
-- 🧠 Smart backend with FastAPI and MySQL
-- 🎯 Easy-to-use UI built with Streamlit
+- ✅ Add or update daily expenses with category, amount, and notes.
+- 📊 View analytics and breakdown of expenses over a date range.
+- 🧠 Smart backend with FastAPI and MySQL.
+- 🎯 Easy-to-use UI built with Streamlit.
 
 ---
 
